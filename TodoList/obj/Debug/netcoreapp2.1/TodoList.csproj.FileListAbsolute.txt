@@ -1,0 +1,13 @@
+C:\Projects\TodoList\TodoList\bin\Debug\netcoreapp2.1\TodoList.deps.json
+C:\Projects\TodoList\TodoList\bin\Debug\netcoreapp2.1\TodoList.runtimeconfig.json
+C:\Projects\TodoList\TodoList\bin\Debug\netcoreapp2.1\TodoList.runtimeconfig.dev.json
+C:\Projects\TodoList\TodoList\bin\Debug\netcoreapp2.1\TodoList.dll
+C:\Projects\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.csproj.CoreCompileInputs.cache
+C:\Projects\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.RazorAssemblyInfo.cache
+C:\Projects\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.RazorAssemblyInfo.cs
+C:\Projects\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.AssemblyInfoInputs.cache
+C:\Projects\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.AssemblyInfo.cs
+C:\Projects\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.RazorTargetAssemblyInfo.cache
+C:\Projects\TodoList\TodoList\bin\Debug\netcoreapp2.1\TodoList.pdb
+C:\Projects\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.dll
+C:\Projects\TodoList\TodoList\obj\Debug\netcoreapp2.1\TodoList.pdb
